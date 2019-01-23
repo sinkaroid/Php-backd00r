@@ -1,5 +1,4 @@
 <?php
-/* Net Scrap Shop v3*/
 $root = $_SERVER['DOCUMENT_ROOT'];
 unlink("$root/wp-content/uploads/2018/01/q.php");
 unlink("$root/wp-content/uploads/2018/1/q.php");
