@@ -194,7 +194,7 @@ echo "</center></td>
 <input type=\"hidden\" name=\"name\" value=\"$dir\">
 <input type=\"hidden\" name=\"path\" value=\"$path/$dir\">
 <input type=\"submit\" value=\">\" />
-</form></center></td>
+</form></center></td> 
 </tr>";
 }
 echo '<tr class="first"><td></td><td></td><td></td><td></td></tr>';
